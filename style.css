@@ -261,6 +261,9 @@ nav {
 .skill-card {
   margin-right: 40px;
 }
+.skill-card a>i:hover{
+  color: rgb(0, 0, 0);
+}
 .skill h2 {
   text-align: center;
   font-weight: 100;
